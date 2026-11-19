@@ -147,7 +147,7 @@ An illustrative 20% reduction in less-essential expenses:
 - Budget Planning
 - Insight Generation
 
-## 📁 Project Files
+## 📁 Project Files  
 
 - `Nitin_Expense_Analysis_Final_Presentation.pdf` – Final project presentation containing expense analysis, charts, findings, and savings recommendations.
 - Excel workbooks – Source expense records and completed analysis, where included in the repository.
